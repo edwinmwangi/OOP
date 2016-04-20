@@ -12,9 +12,9 @@ if(i % 2 != 0)
 
  cout << i << "\n";
 
- return 0;
+ 
      
 }
-    
+    return 0;
     
 }
